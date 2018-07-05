@@ -4,9 +4,9 @@ This is the accompanying project that goes along with Stephen Grider's course, "
 
 ### Getting Started
 
-```
-> clone
-> cd modern-react-with-redux
-> npm install
-> npm start
+```bash
+$ clone
+$ cd modern-react-with-redux
+$ npm install
+$ npm start
 ```
